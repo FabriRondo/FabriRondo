@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy estudiante de Ingeniería en Informática y me estoy formando para convertirme en SOC Analyst. Tengo conocimientos en SIEM, análisis de logs, EDR, redes y fundamentos de ciberseguridad, y sigo aprendiendo cada día para fortalecer mis habilidades en monitoreo, detección y respuesta ante incidentes.
+
 <!--
 **Euslek/Euslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
