@@ -8,15 +8,32 @@ Estudiante de Ingeniería en Informática enfocado en detección de amenazas y a
 
 ## 🛠️ Stack & Herramientas
 
-**Análisis y SIEM**
-`Splunk` · `Wireshark` · `Nmap`
-
 **Lenguajes**
-`Python` · `C++` · `Bash`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+**Análisis y SIEM**
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+</p>
+
+**Sistemas**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 **Frameworks de seguridad**
 `MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model`
-
 ---
 
 ## 📂 Proyectos
