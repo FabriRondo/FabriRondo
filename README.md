@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Informática (UNDAV) enfocado en detección de amen
 Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
 
 ### 🔹 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
-Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios (con triple fuente redundante), verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias. Encontró y documentó un hallazgo real de exposición (`.git`/backup) en una institución educativa.
+Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios (con triple fuente redundante), verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas (`.git`, backups, credenciales), DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
 
 ## 📈 Formación
 - Cybersecurity Defense Analyst Career Path (Cisco NetAcad) — completo
