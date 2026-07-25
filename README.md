@@ -39,7 +39,7 @@ Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios 
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-r-8a70ba378/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Euslek2@gmail.com)
 
 <p align="center"><em>Buenos Aires, Argentina</em></p>
