@@ -1,27 +1,25 @@
 # Rondo Fabricio
-## Blue Teamer | Analista SOC | Entusiasta de la Ciberseguridad
+## Blue Teamer | Analista SOC Jr. | Entusiasta de Ciberseguridad
+Estudiante de Ingeniería en Informática (UNDAV) enfocado en detección de amenazas y análisis defensivo. Construyendo mi camino hacia SOC Analyst L1, con interés en Cyber Threat Intelligence (CTI).
 
-Apasionado por la detección de amenazas, el análisis de malware y la respuesta a incidentes. 
-Actualmente documentando mis laboratorios prácticos e investigaciones.
-
-## 🛠️ Mis Herramientas y Tecnologías
-- **SIEM / Monitoreo:** Splunk, Wazuh
+## 🛠️ Herramientas y Tecnologías
+- **SIEM / Análisis:** Splunk (BOTS v1, Cisco NetAcad Cybersecurity Defense Analyst)
 - **Análisis de Red:** Wireshark, Nmap
-- **Lenguajes:** Python, C++, Bash, PowerShell
-- **Sistemas:** Linux (Ubuntu), Windows Server
+- **Lenguajes:** Python, C++, Bash
+- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain
 
-## 📂 Mi Portafolio de Proyectos (Prácticos e Investigaciones)
+## 📂 Proyectos
 
-### 🔹 1. Laboratorios Prácticos (Home Labs)
-- 🚀 [Configuración de SIEM Splunk + Sysmon](ENLACE_A_TU_REPOSITORIO_1): Creación de un entorno virtualizado para capturar eventos de Windows y detectar ataques de fuerza bruta.
-- 🚀 [Despliegue de Wazuh EDR](ENLACE_A_TU_REPOSITORIO_2): Monitoreo de integridad de archivos y alertas en tiempo real sobre servidores Linux.
+### 🔹 [IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)
+Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
 
-### 🔹 2. Informes de Investigación y Casos de Estudio
-- 📄 [Análisis de Tráfico de Red: Ataque de Ransomware](ENLACE_A_TU_REPOSITORIO_3): Investigación de un archivo PCAP en Wireshark para identificar el vector de entrada y el C2 (Mapeado con MITRE ATT&CK).
-- 📄 [Investigación de Alerta Phishing](ENLACE_A_TU_REPOSITORIO_4): Análisis de encabezados de correo, extracción de URLs maliciosas y detonación en Sandbox.
+### 🔹 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
+Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios (con triple fuente redundante), verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias. Encontró y documentó un hallazgo real de exposición (`.git`/backup) en una institución educativa.
 
-## 📈 Certificaciones
--Cybersecurity Defense Analyst Career Path
--Networking Basics
+## 📈 Formación
+- Cybersecurity Defense Analyst Career Path (Cisco NetAcad) — completo
+- Splunk BOTS v1 — en curso
+- BTLO — labs completados
 
-📫 Cómo contactarme: [LinkedIn]((https://www.linkedin.com/in/a-r-8a70ba378/)) | [Email](Euslek2@gmail.com)
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/a-r-8a70ba378/) | Euslek2@gmail.com
