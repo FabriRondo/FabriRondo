@@ -22,4 +22,4 @@ Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios 
 - BTLO — labs completados
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/a-r-8a70ba378/) | Euslek2@gmail.com
+[LinkedIn]| Euslek2@gmail.com
