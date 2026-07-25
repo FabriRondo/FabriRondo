@@ -1,6 +1,6 @@
 # Rondo Fabricio
 
-###  Blue Teamer en formación | Analista SOC Jr. | UNDAV
+###  Blue Teamer en formación | Analista SOC Jr. 
 
 Estudiante de Ingeniería en Informática enfocado en detección de amenazas y análisis defensivo. Construyendo mi camino hacia SOC Analyst L1, con la mirada puesta en Cyber Threat Intelligence (CTI) a futuro.
 
