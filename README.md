@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mí
 
-Estudiante de **Ingeniería en Informática** (UNDAV) enfocado en detección de amenazas y análisis defensivo.
+Estudiante de **Ingeniería en Informática** enfocado en detección de amenazas y análisis defensivo.
 Construyendo mi camino hacia **SOC Analyst L1**, con la mirada puesta en **Cyber Threat Intelligence (CTI)** a futuro.
 
 - 🛡️ Formación práctica en Blue Team: Splunk, Wireshark, análisis de logs de Windows, MITRE ATT&CK
