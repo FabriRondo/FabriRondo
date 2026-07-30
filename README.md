@@ -1,29 +1,24 @@
-<h1 align="center">Fabricio Rondo</h1>
+# Fabricio Rondo
 
-<p align="center">
-  <strong>Blue Team · SOC Analyst en formación · Python · Linux</strong>
-</p>
+Voy camino a SOC Analyst L1. Me gusta entender las cosas armándolas yo mismo, no solo usándolas.
 
-Estudiante de Ingeniería en Informática en la UNDAV (Buenos Aires, Argentina), construyendo mi camino hacia un rol de SOC Analyst L1, con foco a futuro en Cyber Threat Intelligence.
+Estudio Ingeniería en Informática en la UNDAV (Buenos Aires). Cuando encuentro una herramienta o un concepto nuevo, trato de construir una versión propia — aunque sea chica — para entender qué hay adentro.
 
-No me quedo solo en los labs guiados: trato de armar mis propias herramientas para entender de verdad cómo funciona lo que uso, y documento cada investigación como si tuviera que explicársela a otro analista.
+## Construyendo
 
-## En qué estoy trabajando
+- **[ioc-enrichment-tool](https://github.com/FabriRondo/ioc-enrichment-tool)** — enriquece IPs, hashes y dominios contra VirusTotal y AlienVault OTX
+- **[osint-dashboard](https://github.com/FabriRondo/osint-dashboard)** — reconocimiento de dominios en Flask; con esto encontré un panel Traefik expuesto en mi universidad
 
-Completé el camino de Cybersecurity Defense Analyst de Cisco NetAcad y varios labs de BTLO. Ahora estoy avanzando en Splunk BOTS v1 (threat hunting con SPL) y sumando writeups de análisis de tráfico y logs.
+## Escribiendo
 
-## Proyectos
+- **[SOC-writeups](https://github.com/FabriRondo/SOC-writeups)** — análisis de casos reales de práctica, con la metodología completa
+  - [Easy As 123](https://github.com/FabriRondo/SOC-writeups/tree/main/Network-Traffic/2026-02-28-easy-as-123): rastreo de un host infectado con NetSupport RAT desde un pcap
 
-- **[IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)** — Consulta VirusTotal y AlienVault OTX para enriquecer indicadores de compromiso (IPs, hashes, dominios). Detecta el tipo de IOC automáticamente y guarda todo en JSON.
-- **[OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)** — Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios, verificación de vida, fingerprinting de tecnología, rutas expuestas, DNS/SPF/DMARC y scoring de riesgo propio. Encontré con esto un panel de administración Traefik expuesto en producción.
+## Ahora mismo
 
-### Writeups
+Terminando el camino de Cisco NetAcad en Blue Team, avanzando en Splunk BOTS v1 y sumando writeups de análisis de tráfico y logs de a poco.
 
-**[SOC-writeups](https://github.com/FabriRondo/SOC-writeups)** — casos de análisis documentados con metodología completa, no solo la respuesta final.
-
-- [Easy As 123](https://github.com/FabriRondo/SOC-writeups/tree/main/Network-Traffic/2026-02-28-easy-as-123) — identificación de un host infectado con NetSupport RAT a partir de un pcap: IP, MAC, hostname y usuario de dominio, cruzando Kerberos y SAMR.
-
-## Con qué trabajo
+## Herramientas que uso
 
 **Lenguajes**
 <p>
@@ -36,33 +31,21 @@ Completé el camino de Cybersecurity Defense Analyst de Cisco NetAcad y varios l
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
 </p>
 
 **Sistemas**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Frameworks**
-`MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model`
+MITRE ATT&CK · Cyber Kill Chain · Pyramid of Pain · Diamond Model
 
-## Formación
+---
 
-- Ingeniería en Informática, UNDAV — en curso
-- Cybersecurity Defense Analyst Career Path, Cisco NetAcad — completo
-- Splunk BOTS v1 — en curso
-- BTLO — labs completados
+<img src="https://github-readme-stats.vercel.app/api?username=FabriRondo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="stats" height="165"/>
 
-<h2 align="center">Contacto</h2>
+---
 
-<p align="center">
-  <a href="mailto:Euslek2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  Buenos Aires, Argentina
-</p>
+[Euslek2@gmail.com](mailto:Euslek2@gmail.com) · Buenos Aires, Argentina
