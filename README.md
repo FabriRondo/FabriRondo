@@ -1,7 +1,7 @@
 # Rondo Fabricio
 ### Blue Teamer en formación | Analista SOC Jr.
 
-Estudiante de Ingeniería en Informática, armando el camino hacia mi primer rol en SOC. Mi forma de entrenar: agarro un pcap, una alerta, un IOC, y no paro hasta reconstruir la historia completa — documentando cada caso como si alguien más lo fuera a leer después.
+Estudiante de Ingeniería en Informática , enfocado en ciberseguridad defensiva. Estoy construyendo mi camino hacia SOC Analyst L1 con proyectos propios de análisis de IOCs, OSINT y tráfico de red — no solo teoría, sino casos que resuelvo y documento yo mismo. A mediano plazo, apunto a especializarme en Cyber Threat Intelligence.
 
 
 ### 📂 Proyectos
@@ -55,11 +55,9 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 ### 🎓 Educación y formación
 
-- 🎓 Ingeniería en Informática — UNDAV (en curso, 2do año)
+- 🎓 Ingeniería en Informática — Universidad Nacional De Avellaneda (en curso)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
 - ✅ Linux Essentials — Cisco NetAcad
-- 🔄 Splunk BOTS v1 — en curso
-- ✅ BTLO — labs completados
 
 
 ### 📫 Contacto
