@@ -3,7 +3,6 @@
 
 Estudiante de Ingeniería en Informática, armando el camino hacia mi primer rol en SOC. Mi forma de entrenar: agarro un pcap, una alerta, un IOC, y no paro hasta reconstruir la historia completa — documentando cada caso como si alguien más lo fuera a leer después.
 
----
 
 ## 📂 Proyectos
 
@@ -13,7 +12,6 @@ Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, domi
 ### 🌐 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
 Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios con triple fuente redundante, verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
 
----
 
 ## 📝 Writeups
 
@@ -22,7 +20,6 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 - **Network Traffic — Easy As 123**: identificación de host infectado con NetSupport RAT mediante análisis en Wireshark (hostname, usuario y MAC vía NBNS/Kerberos/SAMR).
 
----
 
 ## 🛠️ Stack & Herramientas
 
@@ -55,7 +52,6 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 `MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model`
 
----
 
 ## 🎓 Educación y formación
 
@@ -65,7 +61,6 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 - 🔄 Splunk BOTS v1 — en curso
 - ✅ BTLO — labs completados
 
----
 
 ## 📫 Contacto
 
