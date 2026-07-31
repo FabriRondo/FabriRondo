@@ -1,13 +1,7 @@
 # Rondo Fabricio
 ### Blue Teamer en formación | Analista SOC Jr.
 
-Estudiante de Ingeniería en Informática enfocado en detección de amenazas y análisis defensivo. Construyendo mi camino hacia SOC Analyst L1, con la mirada puesta en Cyber Threat Intelligence (CTI) a futuro.
-
----
-
-## 💡 Qué hago
-
-Enriquezco IOCs, investigo dominios, analizo tráfico de red y practico detección con SIEM. Documento cada caso como si fuera un reporte real, aplicando frameworks como MITRE ATT&CK y Cyber Kill Chain para estructurar el análisis.
+Estudiante de Ingeniería en Informática, armando el camino hacia mi primer rol en SOC. Mi forma de entrenar: agarro un pcap, una alerta, un IOC, y no paro hasta reconstruir la historia completa — documentando cada caso como si alguien más lo fuera a leer después.
 
 ---
 
@@ -44,13 +38,17 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-4A90D9?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
 </p>
 
-**Sistemas**
+**Sistemas & Infraestructura**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 **Frameworks de seguridad**
@@ -61,9 +59,11 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 ## 🎓 Educación y formación
 
-- 🎓 Ingeniería en Informática — UNDAV (en curso)
+- 🎓 Ingeniería en Informática — UNDAV (en curso, 2do año)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
 - ✅ Linux Essentials — Cisco NetAcad
+- 🔄 Splunk BOTS v1 — en curso
+- ✅ BTLO — labs completados
 
 ---
 
