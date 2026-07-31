@@ -4,24 +4,24 @@
 Estudiante de Ingeniería en Informática, armando el camino hacia mi primer rol en SOC. Mi forma de entrenar: agarro un pcap, una alerta, un IOC, y no paro hasta reconstruir la historia completa — documentando cada caso como si alguien más lo fuera a leer después.
 
 
-## 📂 Proyectos
+### 📂 Proyectos
 
-### 🔎 [IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)
+#### 🔎 [IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)
 Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
 
-### 🌐 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
+#### 🌐 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
 Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios con triple fuente redundante, verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
 
 
-## 📝 Writeups
+### 📝 Writeups
 
-### [SOC-writeups](https://github.com/FabriRondo/SOC-writeups)
+#### [SOC-writeups](https://github.com/FabriRondo/SOC-writeups)
 Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 - **Network Traffic — Easy As 123**: identificación de host infectado con NetSupport RAT mediante análisis en Wireshark (hostname, usuario y MAC vía NBNS/Kerberos/SAMR).
 
 
-## 🛠️ Stack & Herramientas
+### 🛠️ Stack & Herramientas
 
 **Lenguajes**
 <p>
@@ -53,7 +53,7 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 `MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model`
 
 
-## 🎓 Educación y formación
+### 🎓 Educación y formación
 
 - 🎓 Ingeniería en Informática — UNDAV (en curso, 2do año)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
@@ -62,7 +62,7 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 - ✅ BTLO — labs completados
 
 
-## 📫 Contacto
+### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Euslek2@gmail.com)
