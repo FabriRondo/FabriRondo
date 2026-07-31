@@ -61,7 +61,7 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 ## 🎓 Educación y formación
 
-- 🎓 Ingeniería en Informática — UNDAV (en curso, 2do año)
+- 🎓 Ingeniería en Informática — UNDAV (en curso)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
 - ✅ Linux Essentials — Cisco NetAcad
 
