@@ -6,17 +6,15 @@ Estudiante de Ingeniería en Informática , enfocado en ciberseguridad defensiva
 
 ### 📂 Proyectos
 
-#### 🔎 [IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)
-Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
+- **[IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)** — Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
 
-#### 🌐 [OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)
-Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios con triple fuente redundante, verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
+
+- **[OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)** — Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios con triple fuente redundante, verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
 
 
 ### 📝 Writeups
 
-#### [SOC-writeups](https://github.com/FabriRondo/SOC-writeups)
-Casos de análisis documentados con metodología, evidencia y aprendizajes.
+- **[SOC-writeups](https://github.com/FabriRondo/SOC-writeups)** — Casos de análisis documentados con metodología, evidencia y aprendizajes.
 
 - **Network Traffic — Easy As 123**: identificación de host infectado con NetSupport RAT mediante análisis en Wireshark (hostname, usuario y MAC vía NBNS/Kerberos/SAMR).
 
