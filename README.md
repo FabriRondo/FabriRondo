@@ -64,8 +64,6 @@ Casos de análisis documentados con metodología, evidencia y aprendizajes.
 - 🎓 Ingeniería en Informática — UNDAV (en curso, 2do año)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
 - ✅ Linux Essentials — Cisco NetAcad
-- 🔄 Splunk BOTS v1 — en curso
-- ✅ BTLO — labs completados
 
 ---
 
