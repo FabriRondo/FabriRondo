@@ -1,23 +1,26 @@
 # Rondo Fabricio
 ### Blue Teamer en formación | Analista SOC Jr.
 
-Estudiante de Ingeniería en Informática , enfocado en ciberseguridad defensiva. Estoy construyendo mi camino hacia SOC Analyst L1 con proyectos propios de análisis de IOCs, OSINT y tráfico de red — no solo teoría, sino casos que resuelvo y documento yo mismo. A mediano plazo, apunto a especializarme en Cyber Threat Intelligence.
+Estudiante de Ingeniería en Informática, enfocado en ciberseguridad defensiva.
+Estoy construyendo mi camino hacia **SOC Analyst L1** con proyectos propios de
+análisis de IOCs, OSINT y tráfico de red — no solo teoría, sino casos que
+resuelvo y documento yo mismo. A mediano plazo, apunto a especializarme en
+**Cyber Threat Intelligence**.
 
+🎯 Actualmente buscando mi primera oportunidad como SOC Analyst en Argentina.
 
 ### 📂 Proyectos
 
 - **[IOC Enrichment Tool](https://github.com/FabriRondo/ioc-enrichment-tool)** — Herramienta en Python que enriquece indicadores de compromiso (IPs, hashes, dominios) consultando VirusTotal y AlienVault OTX. Detección automática de tipo de IOC y logging estructurado en JSON.
-
-
 - **[OSINT Domain Intelligence Dashboard](https://github.com/FabriRondo/osint-dashboard)** — Dashboard en Flask para reconocimiento de dominios: enumeración de subdominios con triple fuente redundante, verificación de vida, fingerprinting de tecnología, detección de rutas sensibles expuestas, DNS/SPF/DMARC, y scoring de riesgo con reglas propias.
-
 
 ### 📝 Writeups
 
-- **[SOC-writeups](https://github.com/FabriRondo/SOC-writeups)** — Casos de análisis documentados con metodología, evidencia y aprendizajes.
+Casos de análisis documentados con metodología, evidencia y mapeo a MITRE ATT&CK — **[ver repo completo →](https://github.com/FabriRondo/SOC-writeups)**
 
 - **Network Traffic — Easy As 123**: identificación de host infectado con NetSupport RAT mediante análisis en Wireshark (hostname, usuario y MAC vía NBNS/Kerberos/SAMR).
-
+- **Phishing — IRPF**: correo con PDF adjunto que redirige a credential harvesting vía login falso.
+- **Phishing — Microsoft Account Spoofing**: correo sin adjunto ni link falso; vector conversacional buscando respuesta directa de la víctima.
 
 ### 🛠️ Stack & Herramientas
 
@@ -33,7 +36,7 @@ Estudiante de Ingeniería en Informática , enfocado en ciberseguridad defensiva
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-4A90D9?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/VirusTotal-393939?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" />
 </p>
 
 **Sistemas & Infraestructura**
@@ -48,15 +51,13 @@ Estudiante de Ingeniería en Informática , enfocado en ciberseguridad defensiva
 
 **Frameworks de seguridad**
 
-`MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model`
-
+`MITRE ATT&CK` · `Cyber Kill Chain` · `Pyramid of Pain` · `Diamond Model` · `NIST 800-61`
 
 ### 🎓 Educación y formación
 
-- 🎓 Ingeniería en Informática — Universidad Nacional De Avellaneda (en curso)
+- 🎓 Ingeniería en Informática — Universidad Nacional de Avellaneda (en curso)
 - ✅ Cybersecurity Defense Analyst Career Path — Cisco NetAcad
 - ✅ Linux Essentials — Cisco NetAcad
-
 
 ### 📫 Contacto
 
