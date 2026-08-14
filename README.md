@@ -35,7 +35,6 @@ Casos de análisis documentados con metodología, evidencia y mapeo a MITRE ATT&
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/VirusTotal-393939?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" />
 </p>
 
